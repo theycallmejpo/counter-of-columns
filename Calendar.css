@@ -1,0 +1,44 @@
+.calendarTable {
+	border-spacing: 10px;
+	border-style: dashed;
+	border-width: 1px;
+}
+
+.calendarTable tr td {
+	padding: 0px;
+	border-style: none;
+	border-width: 1px;
+	text-align: center;
+	width: 40px;
+}
+
+#header {
+	text-align: center;
+}
+
+#main .noBorder {
+	border-style: none;
+}
+
+.outMonth {
+	background-color: #D0D0D0;
+}
+
+.inMonth {
+	background-color: #00CCFF;
+}
+
+.div {
+	display: inline-block;
+}
+
+.header {
+	font-family: serif;
+	letter-spacing: 2px;
+	color: green;
+}
+
+
+
+
+
