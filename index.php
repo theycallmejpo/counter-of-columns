@@ -1,1 +1,1 @@
-<?php include_once("TableScan.html"); ?>
+<?php include_once("tableScan.html"); ?>
